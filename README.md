@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin
 - 👀 I’m interested in Cloud and Devops
-- 🌱 I’m currently learning Rancher
+- 🌱 I’m currently learning Data Engineering
 
 
 <!---
